@@ -5,6 +5,7 @@ Recipes App is a service that allows you to find recipes for different dishes.
 ---
 
 
+
 ## Cloning the repository
 
 1. Clone the repository using the command below:
@@ -36,11 +37,6 @@ Recipes App is a service that allows you to find recipes for different dishes.
     source env/bin/activate
 ```
 
-5. Install all dependencies
-```bash
-    pip install -r requirements.txt
-```
-
 
 ## Running the App
 ```bash
@@ -52,6 +48,8 @@ The development server will be started at http://127.0.0.1:8000/
 **OpenAPI (Swagger)** documentation is available at http://127.0.0.1:8000/swagger/
 
 ---
+
+
 
 ## App Preview:
 
