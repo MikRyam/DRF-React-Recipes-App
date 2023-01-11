@@ -1,27 +1,25 @@
 # Django & React Recipes App
 
-
-## Description
-
 Recipes App is a service that allows you to find recipes for different dishes.
 
+---
 
 
 ## Cloning the repository
 
 1. Clone the repository using the command below:
-```
+```bash
     git clone git@github.com:MikRyam/DRF-React-Recipes-App.git
 ```
 
 
 2. Move into the directory where we have the project files:
-```
+```bash
     cd DRF-React-Recipes-App
 ```
 
 3. Create a virtual environment:
-```
+```bash
     # If you are on Windows
     virtualenv env
     # If you are on Linux or Mac
@@ -31,7 +29,7 @@ Recipes App is a service that allows you to find recipes for different dishes.
 ```
 
 4. Activate the virtual environment:
-```
+```bash
     # If you are on Windows
     .\env\Scripts\activate
     # If you are on Linux or Mac
@@ -39,13 +37,13 @@ Recipes App is a service that allows you to find recipes for different dishes.
 ```
 
 5. Install all dependencies
-```
+```bash
     pip install -r requirements.txt
 ```
 
 
 ## Running the App
-```
+```bash
     python manage.py runserver
 ```
 
