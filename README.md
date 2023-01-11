@@ -47,7 +47,11 @@ Recipes App is a service that allows you to find recipes for different dishes.
     python manage.py runserver
 ```
 
+The development server will be started at http://127.0.0.1:8000/
 
+OpenAPI (Swagger) documentation is available at http://127.0.0.1:8000/swagger/
+
+---
 
 ## App Preview:
 
