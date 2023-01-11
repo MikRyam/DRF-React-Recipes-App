@@ -49,7 +49,7 @@ Recipes App is a service that allows you to find recipes for different dishes.
 
 The development server will be started at http://127.0.0.1:8000/
 
-OpenAPI (Swagger) documentation is available at http://127.0.0.1:8000/swagger/
+**OpenAPI (Swagger)** documentation is available at http://127.0.0.1:8000/swagger/
 
 ---
 
