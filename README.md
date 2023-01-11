@@ -2,6 +2,15 @@
 
 Recipes App is a service that allows you to find recipes for different dishes.
 
+
+### Stack:
+- Django
+- Django REST Framework
+- ReactJS 
+- Redux Toolkit Query    
+
+
+
 ---
 
 
