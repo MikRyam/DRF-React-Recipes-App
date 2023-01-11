@@ -51,9 +51,9 @@ Recipes App is a service that allows you to find recipes for different dishes.
 
 ## App Preview:
 
-![Main page](/preview_images/mainPage.jpg "Main page")
+![Main page](./preview_images/mainPage.png "Main page")
 
-![Category page](/preview_images/categoryPage.jpg "Category page")
+![Category page](./preview_images/categoryPage.png "Category page")
 
-![Recipe page](/preview_images/recipePage.jpg "Recipe page")
+![Recipe page](./preview_images/recipePage.png "Recipe page")
 
